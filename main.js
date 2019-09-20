@@ -80,11 +80,7 @@ function draw () {
             s.update(deltaTime);
         }
         if (s.draw) {
-            try {
-                s.draw(deltaTime);
-            } catch (e) {
-
-            }
+            s.draw(deltaTime);
         }
     }
 }
