@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b751a733-f44c-4bb1-adcf-9058ea1c9bdd" name="Default" comment="paths">
-      <change afterPath="$PROJECT_DIR$/data/backFire.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/boats/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/boats/1-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/boats/2-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/boats/2-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/boats/3-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/boats/3-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/boats/3-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/boats/4-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/boats/4-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/boats/4-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/boats/4-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/bomb.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/explosion.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/fire.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/fire2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/fonts/GameOverFont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/fonts/Pacifico.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/island.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/lightning.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/lightningPart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/rainbow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sound/background.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sound/boatCellExplosion.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sound/bombLaunch.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sound/emptyCellExplosion.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sound/explosionsAll.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sound/gameBackground.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sound/rain.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sound/thunder.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wave.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,44 +13,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-40807885">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="html" value="1" />
-          <entry key="js" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Git file" value="1" />
-          <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="html" value="12" />
-          <entry key="txt" value="19" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Git file" value="1" />
-          <entry key="HTML" value="12" />
-          <entry key="PLAIN_TEXT" value="19" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="SeaBattle" />
   </component>
@@ -92,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+            <state relative-caret-position="234">
+              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -103,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -145,27 +74,22 @@
         <option value="$PROJECT_DIR$/src/Game.js" />
         <option value="$PROJECT_DIR$/src/Weather.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/indeeex.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <annotation-enable>false</annotation-enable>
     <other-services-enabled>true</other-services-enabled>
   </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-18" />
-    <option name="y" value="-18" />
-    <option name="width" value="3873" />
-    <option name="height" value="2093" />
+    <option name="x" value="-20" />
+    <option name="y" value="-20" />
+    <option name="width" value="3875" />
+    <option name="height" value="2095" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -188,7 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,12 +123,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="canHit&#9;null&#9;null&#10;mark&#9;null&#9;null&#10;run&#9;ACTION&#9;Run&#10;hitin&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
@@ -229,13 +154,13 @@
     </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://212.2.132.10/index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://212.2.132.10/index.html">
       <method v="2" />
     </configuration>
-    <configuration name="GameAI.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="GameAI.js" working-dir="$PROJECT_DIR$/src">
+    <configuration name="GameAI.js" type="NodeJSConfigurationType" temporary="true" path-to-js-file="GameAI.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
@@ -245,8 +170,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.GameAI.js" />
       <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.GameAI.js" />
     </list>
     <recent_temporary>
       <list>
@@ -300,6 +225,8 @@
       <workItem from="1497348577729" duration="30000" />
       <workItem from="1497690223254" duration="387000" />
       <workItem from="1537641735536" duration="403000" />
+      <workItem from="1568992265595" duration="416000" />
+      <workItem from="1568993640142" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="structure">
       <created>1537641791299</created>
@@ -315,11 +242,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537641875975</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="paths">
+      <created>1568992385729</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568992385729</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123587000" />
+    <option name="totallyTimeSpent" value="124032000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -331,16 +265,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1549" height="837" extended-state="0" />
+    <frame x="-8" y="-8" width="1550" height="838" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19986586" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20509383" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32973558" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39989206" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -348,18 +281,17 @@
       <window_info anchor="bottom" id="Statistic" order="7" weight="0.32973558" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Remote Host" order="0" weight="0.32994792" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Redis Servers" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="structure" />
@@ -408,10 +340,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/indeeex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+        <state relative-caret-position="234">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
         </state>
       </provider>
     </entry>
