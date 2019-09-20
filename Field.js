@@ -9,9 +9,9 @@ let emptyCellExplosion;
 let bombLaunchSound;
 
 function preloadFieldImages() {
-    bombGif = loadGif("data/bomb.gif");
-    explosionGif = loadGif("data/explosion.gif");
-    fireGif = loadGif("data/fire.gif");
+    bombGif = loadImage("data/bomb.png");
+    // explosionGif = loadGif("data/explosion.gif");
+    fireGif = loadImage("data/fire.jpg");
 
     boatImages[0] = loadImage("data/boats/0.png"); //part of the boat that is damaged but boat isn't yet dead
     for (let i = 1; i <= 4; i++) {
@@ -404,8 +404,8 @@ function Field(fieldWidth = 10, fieldHeight = 10) {
                         3*cellSize*(1 - hitAnimationProgress), 3*cellSize*(1 - hitAnimationProgress));
                     if (hitAnimationProgress > 0.5) {
                         push();
-                        image(explosionGif, 0,0,
-                            cellSize*(sin(hitAnimationProgress*PI)), cellSize*(sin(hitAnimationProgress*PI)));
+                        // image(explosionGif, 0,0,
+                        //     cellSize*(sin(hitAnimationProgress*PI)), cellSize*(sin(hitAnimationProgress*PI)));
 
                         pop();
                     }
